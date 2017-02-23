@@ -11,8 +11,10 @@ Tasks for February 2/21/2017 - 2/24/2017
   
 3. Create a Ubuntu partition on your laptop and send me a screenshot of your terminal window in the foreground.
   - Installed!
+  - Picture sent!
   
 4. Create an account @codecademy.com and complete this lesson https://www.codecademy.com/learn/ruby.
   - Made an account
   
 5. Install a text editor onto your Ubuntu machine, https://atom.io/ has one I like, but feel free to find one you like. 
+  - Installed!
