@@ -7,7 +7,8 @@ Tasks for February 2/21/2017 - 2/24/2017
 
 2. Create a stackoverflow account and get 10 points using it (you'll use this site religiously, get used to it). 
   - Made an account
-  - Need 10 points
+  - Changed 10 points to finishing 2 badges and screenshot.
+  - Finished 3 bronze badges which are simple, but have no questions at the moment in this beginning period.
   
 3. Create a Ubuntu partition on your laptop and send me a screenshot of your terminal window in the foreground.
   - Installed!
