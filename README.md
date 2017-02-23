@@ -15,8 +15,8 @@ Tasks for February 2/21/2017 - 2/24/2017
   
 4. Create an account @codecademy.com and complete this lesson https://www.codecademy.com/learn/ruby.
   - Made an account
-  - Finished the link sent: "Introduction to Ruby" - 10%
-  - Finished Control Flow in Ruby - 5% (50% of lesson 2 is finished)
+  - Finished the link sent: Lesson 1 - "Introduction to Ruby" - 10%
+  - Finished Lesson 2 - Control Flow in Ruby - 5% (50% of lesson 2 is finished)
   
 5. Install a text editor onto your Ubuntu machine, https://atom.io/ has one I like, but feel free to find one you like. 
   - Installed!
